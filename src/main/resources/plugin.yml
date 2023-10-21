@@ -1,0 +1,5 @@
+name: ChatCancellORE
+version: 1.0
+main: ChatCancel
+api-version: 1.17
+depend: []
